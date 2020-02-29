@@ -8,6 +8,8 @@
 - First page - inputs (ingredients, exp dates, requirements).
 - Second page - recipes and URLs, brief description of dish, etc.
 
+## Main steps to implement:
+
 From input:
 
 1. Search database for recipes with those ingredients.
