@@ -1,4 +1,4 @@
-# Sus-Recipes
+# SUSAN
 **Input** : ingredients you have, dietary requirements (?). 
 **Output** : recipes given the ingredients and potentially two sustainable shopping lists: one for missing items and one for all ingredients (for next time you want to make the dish).
 
